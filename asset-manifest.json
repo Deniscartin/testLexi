@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a5ab377.css",
+    "main.js": "/static/js/main.16a9e190.js",
+    "static/media/cardImg.png": "/static/media/cardImg.4fbcfa06e21bb5536b48.png",
+    "static/media/walletImg.png": "/static/media/walletImg.cc67a9bd6aae8ff398e8.png",
+    "static/media/globeImg.png": "/static/media/globeImg.edbfd54e63b954938e36.png",
+    "static/media/coinImg.png": "/static/media/coinImg.36e526d081e93d476553.png",
+    "static/media/mockup.png": "/static/media/mockup.cb6acc89e7326ce9ba4d.png",
+    "static/media/mockupw.png": "/static/media/mockupw.98acc0ab77b24b951d41.png",
+    "static/media/man.png": "/static/media/man.df60470417cbb3a13840.png",
+    "static/media/card2Img.png": "/static/media/card2Img.c34cb45e4b3ee827fbc6.png",
+    "static/media/tether.png": "/static/media/tether.8020c804ff488254ded6.png",
+    "static/media/dogecoin.png": "/static/media/dogecoin.67875f0e79564fa192ae.png",
+    "static/media/binance.png": "/static/media/binance.b92e6c7c01e144ab19e9.png",
+    "static/media/ethereum.png": "/static/media/ethereum.0f847c03b3359f7c1269.png",
+    "static/media/ripple.png": "/static/media/ripple.f4f6958c720a5a5a27ad.png",
+    "static/media/bitcoin.png": "/static/media/bitcoin.a82ac9c0235a9cbe91d1.png",
+    "index.html": "/index.html",
+    "main.7a5ab377.css.map": "/static/css/main.7a5ab377.css.map",
+    "main.16a9e190.js.map": "/static/js/main.16a9e190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a5ab377.css",
+    "static/js/main.16a9e190.js"
+  ]
+}
